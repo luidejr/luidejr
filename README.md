@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Luide Jr</h1>
 <h3 align="center">Apaixonado por tecnologia, programação, ciências e análise de dados.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Banco de Dados não relacional, Html, Css, JS**
+- 🌱 Atualmente estou aprendendo **Python, Banco de Dados não relacional, Html, Css, JS, SCRUM**
 
 - 💬 Me pergunte sobre **SQL, Power BI, Qlik, AWS**
 
